@@ -1,5 +1,5 @@
 # Tech Challenge - Fase 1
-**Dieizon A. Ferreira | RM: 371888 | 1IAST — FIAP PosTech**
+**Dieizon A. Ferreira | RM: 371888 | 1IAST - FIAP PosTech**
 
 ---
 
